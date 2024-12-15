@@ -1,1 +1,2 @@
-# Power-Bi-Project
+# Mini project_numpy
+ 
