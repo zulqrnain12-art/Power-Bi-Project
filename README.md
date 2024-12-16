@@ -1,2 +1,2 @@
-# Mini project_numpy
+# Mini project_power BI
  
